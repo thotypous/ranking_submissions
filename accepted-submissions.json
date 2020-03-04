@@ -1,1 +1,19 @@
-
+{
+ "standings": [
+  {
+   "lastAccept": 1582940596, 
+   "pos": 1, 
+   "score": 500, 
+   "taskStats": {
+    "test": {
+     "points": 500, 
+     "time": 1582940596
+    }
+   }, 
+   "team": "jabulani"
+  }
+ ], 
+ "tasks": [
+  "test"
+ ]
+}
