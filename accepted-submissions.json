@@ -3,10 +3,10 @@
   {
    "lastAccept": 1583548633, 
    "pos": 1, 
-   "score": 1474, 
+   "score": 1453, 
    "taskStats": {
     "test": {
-     "points": 474, 
+     "points": 453, 
      "time": 1583548185
     }, 
     "test2": {
@@ -23,14 +23,26 @@
   {
    "lastAccept": 1583587989, 
    "pos": 2, 
-   "score": 474, 
+   "score": 453, 
    "taskStats": {
     "test": {
-     "points": 474, 
+     "points": 453, 
      "time": 1583587989
     }
    }, 
    "team": "Jabulani"
+  }, 
+  {
+   "lastAccept": 1583592486, 
+   "pos": 3, 
+   "score": 453, 
+   "taskStats": {
+    "test": {
+     "points": 453, 
+     "time": 1583592486
+    }
+   }, 
+   "team": "tESTEr2"
   }
  ], 
  "tasks": [
