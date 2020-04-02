@@ -3,10 +3,10 @@
   {
    "lastAccept": 1585618477, 
    "pos": 1, 
-   "score": 1422, 
+   "score": 1401, 
    "taskStats": {
     "test": {
-     "points": 474, 
+     "points": 453, 
      "time": 1585618446
     }, 
     "test2": {
@@ -23,10 +23,10 @@
   {
    "lastAccept": 1585795396, 
    "pos": 2, 
-   "score": 1422, 
+   "score": 1401, 
    "taskStats": {
     "test": {
-     "points": 474, 
+     "points": 453, 
      "time": 1585794878
     }, 
     "test2": {
@@ -39,6 +39,18 @@
     }
    }, 
    "team": "teste123"
+  }, 
+  {
+   "lastAccept": 1585838293, 
+   "pos": 3, 
+   "score": 453, 
+   "taskStats": {
+    "test": {
+     "points": 453, 
+     "time": 1585838293
+    }
+   }, 
+   "team": "TesteAndre"
   }
  ], 
  "tasks": [
