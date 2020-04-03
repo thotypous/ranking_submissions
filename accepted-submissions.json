@@ -1,0 +1,19 @@
+{
+ "standings": [
+  {
+   "lastAccept": 1585879171, 
+   "pos": 1, 
+   "score": 500, 
+   "taskStats": {
+    "test": {
+     "points": 500, 
+     "time": 1585879171
+    }
+   }, 
+   "team": "Team Lorhan"
+  }
+ ], 
+ "tasks": [
+  "test"
+ ]
+}
