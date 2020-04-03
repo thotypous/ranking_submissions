@@ -3,10 +3,10 @@
   {
    "lastAccept": 1585880043, 
    "pos": 1, 
-   "score": 1000, 
+   "score": 974, 
    "taskStats": {
     "test": {
-     "points": 500, 
+     "points": 474, 
      "time": 1585880024
     }, 
     "test2": {
@@ -15,6 +15,18 @@
     }
    }, 
    "team": "Team Lorhan"
+  }, 
+  {
+   "lastAccept": 1585920460, 
+   "pos": 2, 
+   "score": 474, 
+   "taskStats": {
+    "test": {
+     "points": 474, 
+     "time": 1585920460
+    }
+   }, 
+   "team": "Hakuna Bolad\u00e3o"
   }
  ], 
  "tasks": [
