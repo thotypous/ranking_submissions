@@ -3,7 +3,7 @@
   {
    "lastAccept": 1586058219, 
    "pos": 1, 
-   "score": 4953, 
+   "score": 4927, 
    "taskStats": {
     "test": {
      "points": 453, 
@@ -38,7 +38,7 @@
      "time": 1586057084
     }, 
     "test8": {
-     "points": 500, 
+     "points": 474, 
      "time": 1585944071
     }, 
     "test9": {
@@ -49,8 +49,20 @@
    "team": "Team Lorhan"
   }, 
   {
-   "lastAccept": 1585920460, 
+   "lastAccept": 1586201007, 
    "pos": 2, 
+   "score": 474, 
+   "taskStats": {
+    "test8": {
+     "points": 474, 
+     "time": 1586201007
+    }
+   }, 
+   "team": "Deadlock Team"
+  }, 
+  {
+   "lastAccept": 1585920460, 
+   "pos": 3, 
    "score": 453, 
    "taskStats": {
     "test": {
@@ -62,7 +74,7 @@
   }, 
   {
    "lastAccept": 1586200551, 
-   "pos": 3, 
+   "pos": 4, 
    "score": 453, 
    "taskStats": {
     "test": {
