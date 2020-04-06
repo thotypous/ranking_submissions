@@ -3,10 +3,10 @@
   {
    "lastAccept": 1586058219, 
    "pos": 1, 
-   "score": 4974, 
+   "score": 4953, 
    "taskStats": {
     "test": {
-     "points": 474, 
+     "points": 453, 
      "time": 1585880024
     }, 
     "test10": {
@@ -51,14 +51,26 @@
   {
    "lastAccept": 1585920460, 
    "pos": 2, 
-   "score": 474, 
+   "score": 453, 
    "taskStats": {
     "test": {
-     "points": 474, 
+     "points": 453, 
      "time": 1585920460
     }
    }, 
    "team": "Hakuna Bolad\u00e3o"
+  }, 
+  {
+   "lastAccept": 1586200551, 
+   "pos": 3, 
+   "score": 453, 
+   "taskStats": {
+    "test": {
+     "points": 453, 
+     "time": 1586200551
+    }
+   }, 
+   "team": "RATF"
   }
  ], 
  "tasks": [
