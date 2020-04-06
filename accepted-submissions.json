@@ -3,7 +3,7 @@
   {
    "lastAccept": 1586058219, 
    "pos": 1, 
-   "score": 4894, 
+   "score": 4868, 
    "taskStats": {
     "test": {
      "points": 420, 
@@ -22,7 +22,7 @@
      "time": 1586034042
     }, 
     "test4": {
-     "points": 500, 
+     "points": 474, 
      "time": 1586056610
     }, 
     "test5": {
@@ -49,8 +49,24 @@
    "team": "Team Lorhan"
   }, 
   {
-   "lastAccept": 1586201007, 
+   "lastAccept": 1586204929, 
    "pos": 2, 
+   "score": 894, 
+   "taskStats": {
+    "test": {
+     "points": 420, 
+     "time": 1586202647
+    }, 
+    "test4": {
+     "points": 474, 
+     "time": 1586204929
+    }
+   }, 
+   "team": "imesec1337"
+  }, 
+  {
+   "lastAccept": 1586201007, 
+   "pos": 3, 
    "score": 474, 
    "taskStats": {
     "test8": {
@@ -62,7 +78,7 @@
   }, 
   {
    "lastAccept": 1585920460, 
-   "pos": 3, 
+   "pos": 4, 
    "score": 420, 
    "taskStats": {
     "test": {
@@ -74,7 +90,7 @@
   }, 
   {
    "lastAccept": 1586200551, 
-   "pos": 4, 
+   "pos": 5, 
    "score": 420, 
    "taskStats": {
     "test": {
@@ -86,7 +102,7 @@
   }, 
   {
    "lastAccept": 1586201682, 
-   "pos": 5, 
+   "pos": 6, 
    "score": 420, 
    "taskStats": {
     "test": {
@@ -95,18 +111,6 @@
     }
    }, 
    "team": "Test"
-  }, 
-  {
-   "lastAccept": 1586202647, 
-   "pos": 6, 
-   "score": 420, 
-   "taskStats": {
-    "test": {
-     "points": 420, 
-     "time": 1586202647
-    }
-   }, 
-   "team": "imesec1337"
   }
  ], 
  "tasks": [
