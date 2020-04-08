@@ -3,7 +3,7 @@
   {
    "lastAccept": 1586058219, 
    "pos": 1, 
-   "score": 4755, 
+   "score": 4729, 
    "taskStats": {
     "test": {
      "points": 406, 
@@ -14,7 +14,7 @@
      "time": 1585968879
     }, 
     "test2": {
-     "points": 500, 
+     "points": 474, 
      "time": 1585880043
     }, 
     "test3": {
@@ -73,8 +73,28 @@
    "team": "Deadlock Team"
   }, 
   {
-   "lastAccept": 1586204929, 
+   "lastAccept": 1586358020, 
    "pos": 3, 
+   "score": 1333, 
+   "taskStats": {
+    "test": {
+     "points": 406, 
+     "time": 1586357258
+    }, 
+    "test2": {
+     "points": 474, 
+     "time": 1586358020
+    }, 
+    "test7": {
+     "points": 453, 
+     "time": 1586228196
+    }
+   }, 
+   "team": "ThoTyam"
+  }, 
+  {
+   "lastAccept": 1586204929, 
+   "pos": 4, 
    "score": 880, 
    "taskStats": {
     "test": {
@@ -87,22 +107,6 @@
     }
    }, 
    "team": "imesec1337"
-  }, 
-  {
-   "lastAccept": 1586357258, 
-   "pos": 4, 
-   "score": 859, 
-   "taskStats": {
-    "test": {
-     "points": 406, 
-     "time": 1586357258
-    }, 
-    "test7": {
-     "points": 453, 
-     "time": 1586228196
-    }
-   }, 
-   "team": "ThoTyam"
   }, 
   {
    "lastAccept": 1585920460, 
