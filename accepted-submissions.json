@@ -3,10 +3,10 @@
   {
    "lastAccept": 1586058219, 
    "pos": 1, 
-   "score": 4769, 
+   "score": 4755, 
    "taskStats": {
     "test": {
-     "points": 420, 
+     "points": 406, 
      "time": 1585880024
     }, 
     "test10": {
@@ -75,10 +75,10 @@
   {
    "lastAccept": 1586204929, 
    "pos": 3, 
-   "score": 894, 
+   "score": 880, 
    "taskStats": {
     "test": {
-     "points": 420, 
+     "points": 406, 
      "time": 1586202647
     }, 
     "test4": {
@@ -89,10 +89,14 @@
    "team": "imesec1337"
   }, 
   {
-   "lastAccept": 1586228196, 
+   "lastAccept": 1586357258, 
    "pos": 4, 
-   "score": 453, 
+   "score": 859, 
    "taskStats": {
+    "test": {
+     "points": 406, 
+     "time": 1586357258
+    }, 
     "test7": {
      "points": 453, 
      "time": 1586228196
@@ -103,10 +107,10 @@
   {
    "lastAccept": 1585920460, 
    "pos": 5, 
-   "score": 420, 
+   "score": 406, 
    "taskStats": {
     "test": {
-     "points": 420, 
+     "points": 406, 
      "time": 1585920460
     }
    }, 
@@ -115,10 +119,10 @@
   {
    "lastAccept": 1586200551, 
    "pos": 6, 
-   "score": 420, 
+   "score": 406, 
    "taskStats": {
     "test": {
-     "points": 420, 
+     "points": 406, 
      "time": 1586200551
     }
    }, 
@@ -127,10 +131,10 @@
   {
    "lastAccept": 1586201682, 
    "pos": 7, 
-   "score": 420, 
+   "score": 406, 
    "taskStats": {
     "test": {
-     "points": 420, 
+     "points": 406, 
      "time": 1586201682
     }
    }, 
