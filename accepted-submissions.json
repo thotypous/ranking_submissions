@@ -3,7 +3,7 @@
   {
    "lastAccept": 1586058219, 
    "pos": 1, 
-   "score": 4795, 
+   "score": 4769, 
    "taskStats": {
     "test": {
      "points": 420, 
@@ -26,7 +26,7 @@
      "time": 1586056610
     }, 
     "test5": {
-     "points": 500, 
+     "points": 474, 
      "time": 1586033825
     }, 
     "test6": {
@@ -49,10 +49,14 @@
    "team": "Team Lorhan"
   }, 
   {
-   "lastAccept": 1586320146, 
+   "lastAccept": 1586320729, 
    "pos": 2, 
-   "score": 1401, 
+   "score": 1875, 
    "taskStats": {
+    "test5": {
+     "points": 474, 
+     "time": 1586320729
+    }, 
     "test6": {
      "points": 474, 
      "time": 1586320146
